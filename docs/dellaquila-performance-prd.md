@@ -1,28 +1,28 @@
-# Delical Performance Group Shop Management Software — Product Requirements Document v1.0
+# Dell'Aquila Performance Group Shop Management Software — Product Requirements Document v1.0
 
 ## Document Control
 
 | Field | Value |
 | --- | --- |
-| Product | Delical Performance Group Shop Management Software |
+| Product | Dell'Aquila Performance Group Shop Management Software |
 | Document type | Product Requirements Document (PRD) |
 | Version | 1.0 |
-| Prepared for | Delical Performance Group |
+| Prepared for | Dell'Aquila Performance Group |
 | Target business | Porsche/BMW European performance automotive shop |
 | Target launch context | Sacramento-area performance shop planned for early next year |
 | Status | Draft for review |
 
 ## 1. Executive Summary
 
-Delical Performance Group needs a modern automotive shop management platform tailored to the realities of a Porsche/BMW European performance shop. The system should improve on legacy shop systems such as MaxxTraxx/MaxTracks while matching or exceeding the usability expectations set by newer platforms such as Shopmonkey.
+Dell'Aquila Performance Group needs a modern automotive shop management platform tailored to the realities of a Porsche/BMW European performance shop. The system should improve on legacy shop systems such as MaxxTraxx/MaxTracks while matching or exceeding the usability expectations set by newer platforms such as Shopmonkey.
 
 The product should support daily shop operations including customer management, vehicle records, estimates, repair orders, scheduling, technician workflow, parts tracking, invoicing, payments, and reporting. It should also support performance-shop-specific workflows such as modification history, build profiles, track preparation, alignment specifications, dyno results, tuning references, and reusable Porsche/BMW service packages.
 
-The recommended strategy is to build a practical MVP for operating Delical Performance Group first, then expand into advanced workflow, parts, inventory, analytics, and performance-build capabilities after the core shop flow is validated.
+The recommended strategy is to build a practical MVP for operating Dell'Aquila Performance Group first, then expand into advanced workflow, parts, inventory, analytics, and performance-build capabilities after the core shop flow is validated.
 
 ## 2. Product Vision
 
-Create a fast, modern, technician-friendly, advisor-friendly shop management system that gives Delical Performance Group a competitive operational advantage. The product should reduce administrative work, improve customer communication, increase estimate approval rates, organize vehicle and build history, and provide clear visibility into shop workload and profitability.
+Create a fast, modern, technician-friendly, advisor-friendly shop management system that gives Dell'Aquila Performance Group a competitive operational advantage. The product should reduce administrative work, improve customer communication, increase estimate approval rates, organize vehicle and build history, and provide clear visibility into shop workload and profitability.
 
 The software should feel purpose-built for a specialty performance shop rather than a generic repair shop. It should handle both normal repair/service work and complex long-term performance builds.
 
@@ -30,7 +30,7 @@ The software should feel purpose-built for a specialty performance shop rather t
 
 The initial business context is a Porsche/BMW performance automotive shop planned for the Sacramento, California area. The founder has direct experience working at Performance Technic in Fremont, California and has firsthand exposure to limitations in current shop management workflows.
 
-The software should support the launch and growth of Delical Performance Group while remaining flexible enough to become a broader software product for other specialty automotive shops in the future.
+The software should support the launch and growth of Dell'Aquila Performance Group while remaining flexible enough to become a broader software product for other specialty automotive shops in the future.
 
 ## 4. Product Goals
 
@@ -844,7 +844,7 @@ For a fast MVP, the recommended stack is either Next.js, PostgreSQL, Supabase, S
 - Should customers approve estimates by text message from day one?
 - Is built-in payment processing required on day one?
 - Is QuickBooks integration required on day one?
-- Is the software only for Delical Performance Group, or should it eventually be sold to other shops?
+- Is the software only for Dell'Aquila Performance Group, or should it eventually be sold to other shops?
 - Should inventory be included in the MVP?
 - Are parts vendor integrations needed in the MVP?
 - Should a customer portal be included in the MVP or deferred?
@@ -854,6 +854,6 @@ For a fast MVP, the recommended stack is either Next.js, PostgreSQL, Supabase, S
 
 ## 18. Recommendation
 
-The recommended plan is to prioritize a business-ready MVP for operating Delical Performance Group at launch. The MVP should focus on customers, vehicles, estimates, repair orders, invoices, basic scheduling, technician assignment, line items, digital approvals, payment recording, notes, and photo uploads.
+The recommended plan is to prioritize a business-ready MVP for operating Dell'Aquila Performance Group at launch. The MVP should focus on customers, vehicles, estimates, repair orders, invoices, basic scheduling, technician assignment, line items, digital approvals, payment recording, notes, and photo uploads.
 
 After the shop workflow is validated, the product can expand into communication automation, digital inspections, parts and inventory, performance build management, advanced reporting, accounting integrations, payment automation, and customer portal features.
